@@ -2,6 +2,8 @@
 
 A simple golang app for monitoring a series of IPs 
 
+![Capture](https://github.com/knabe/CLI-ICMP-Ping-monitor/blob/master/ping-monitor.png)
+
 ## Getting started
 
 Build the app
@@ -13,6 +15,8 @@ make
 Run the app
 
 ```
+./ping-monitor <time> <file containing ips>
+
 ./ping-monitor 1s iplist.txt
 ```
 
