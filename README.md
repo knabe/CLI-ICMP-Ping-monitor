@@ -1,6 +1,6 @@
 # CLI-ICMP-Ping-monitor
 
-A simple golang app for monitoring a series of IPs 
+A simple CLI for pinging & monitoring a series of IPs written in go.  
 
 ![Capture](https://github.com/knabe/CLI-ICMP-Ping-monitor/blob/master/ping-monitor.png)
 
