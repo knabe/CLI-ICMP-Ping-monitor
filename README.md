@@ -13,11 +13,11 @@ make
 Run the app
 
 ```
-./website-uptime-checker 1s iplist.txt
+./ping-monitor 1s iplist.txt
 ```
 
 ip table example
-ipslist.txt
+iplist.txt
 ```
 192.168.1.1,router
 192.168.1.2, example1
